@@ -21,5 +21,5 @@ for design, voto_desing in votos.items():
 porcentagem = 100 * (voto_vencedor) / (total_votos)
 
 #Resultado
-print(f'{vencedor} é o vencedor: ')
+print(f'{vencedor} é o vencedor: ') 
 print(f'Porcentagem de votos: {porcentagem}%')
