@@ -30,7 +30,7 @@ elif resultado == 0:
 else:
   print('O resultado é negativo.')
 
-if resultado % 2 == 0:
+if resultado % 2 == 0: 
   print('O resultado é par.')
 else:
   print('O resultad é ímpar.')
