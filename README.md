@@ -28,9 +28,12 @@ Este repositório tem como objetivo:
 | **📁 [monthly-temperature-analyzer]** | Programa que coleta as temperaturas médias mensais ao longo do ano, calcula a média anual e exibe as temperaturas que estão acima dessa média, indicando os meses correspondentes por extenso. | Python |
 | **📁 [ecommerce-sales-analyzer]** | Programa que analisa dados de vendas armazenados em um dicionário, permitindo extrair informações relevantes sobre o desempenho dos produtos. | Python |
 | **📁 [market-research-analyzer]** | Programa que analisa os votos de uma pesquisa de mercado para determinar qual design de marca infantil é mais apreciado pelas crianças. | Python |
+| **📁 [salary-bonus-analyzer]** | Programa que calcula o abono de 10% sobre salários, garantindo valor mínimo, e reporta total gasto, quantidade de abonos mínimos e maior abono pago. | Python |
+| **📁 [biodiversity-analyzer]** | Programa que armazena dados de espécies de plantas e animais por área e permite análises da diversidade biológica. | Python |
+| **📁 [employee-age-analyzer]** | Programa que recebe as idades dos colaboradores em 4 setores e realiza análises estatísticas por setor. | Python |
 
 
-> 🔧 **Observação:** cada projeto contém seu próprio README com orientações detalhadas.
+> 🔧 **Observação:** cada contém uma breve explicação da sua objetividade.
 
 ---
 
