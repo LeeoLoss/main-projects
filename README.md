@@ -1,3 +1,5 @@
+![Visitantes](https://komarev.com/ghpvc/?username=leonardoloss&label=Visualizações&color=0e75b6&style=flat)
+
 # 🚀 Projetos Principais – Python & Java
 
 Bem-vindo(a) ao meu repositório de **projetos principais**, com foco em soluções desenvolvidas nas linguagens **Python** e **Java**. Aqui estão reunidos exemplos práticos que demonstram minhas habilidades em **análise de dados**, **automação de processos**, **desenvolvimento back-end** e **boas práticas de programação**.
